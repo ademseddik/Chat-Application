@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/xml/data_extraction_rules.xml",
+        "source": "tn.esprit.crosschat-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/xml/backup_rules.xml",
+        "source": "tn.esprit.crosschat-main-51:/xml/backup_rules.xml"
+    }
+]

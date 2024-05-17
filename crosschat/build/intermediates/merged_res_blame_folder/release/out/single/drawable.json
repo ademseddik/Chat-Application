@@ -1,0 +1,638 @@
+[
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_clock_black_24dp.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_clock_black_24dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_item_background_holo_dark.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_clear_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_thumb_unchecked_pressed.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_thumb_unchecked_pressed.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_m3_chip_close.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_m3_chip_close.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_menu_share_mtrl_alpha.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/material_ic_edit_black_24dp.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/material_ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/baseline_face_5_24.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/baseline_face_5_24.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/greg.jpg",
+        "source": "tn.esprit.crosschat-main-51:/drawable/greg.jpg"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_ic_indeterminate.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_ic_indeterminate.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_track.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_track.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_track_decoration.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_track_decoration.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/baseline_arrow_back_ios_24.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_thumb_unchecked_checked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_thumb_unchecked_checked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/addddd.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/addddd.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/baseline_local_phone_24.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_ic_error.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_ic_error.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/baseline_attach_file_24.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/baseline_attach_file_24.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/m3_bottom_sheet_drag_handle.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/m3_bottom_sheet_drag_handle.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/m3_avd_hide_password.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/m3_avd_hide_password.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_thumb_checked_unchecked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_thumb_checked_unchecked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/notification_bg.xml",
+        "source": "tn.esprit.crosschat-core-1.9.0-8:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_thumb_checked_pressed.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_thumb_checked_pressed.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_thumb_pressed_unchecked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_thumb_pressed_unchecked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/btn_radio_on_mtrl.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/design_snackbar_background.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_go_search_api_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_thumb_pressed.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_thumb_pressed.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/baseline_check_circle_outline_24.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/baseline_check_circle_outline_24.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_thumb_unchecked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_thumb_unchecked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/sophia.jpg",
+        "source": "tn.esprit.crosschat-main-51:/drawable/sophia.jpg"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_btn_radio_material_anim.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/steven.jpg",
+        "source": "tn.esprit.crosschat-main-51:/drawable/steven.jpg"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/avd_show_password.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/avd_show_password.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/plus.jpeg",
+        "source": "tn.esprit.crosschat-main-51:/drawable/plus.jpeg"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/design_password_eye.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/default_user_icon.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/default_user_icon.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_bottomsheet_drag_handle.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_bottomsheet_drag_handle.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/m3_popupmenu_background_overlay.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/m3_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_launcher_background.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/material_ic_menu_arrow_up_black_24dp.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/material_ic_menu_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_star_half_black_48dp.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_star_half_black_48dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/attach.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/attach.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_ic_cancel.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_ic_cancel.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_switch_thumb_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_star_black_48dp.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_star_black_48dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_thumb_pressed_checked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_thumb_pressed_checked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/john.jpg",
+        "source": "tn.esprit.crosschat-main-51:/drawable/john.jpg"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_item_background_holo_light.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/design_ic_visibility.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_arrow_back_black_24.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_arrow_back_black_24.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/customsearcherria.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/customsearcherria.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/avd_hide_password.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/avd_hide_password.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/btn_radio_off_mtrl.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_textfield_search_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/navigation_empty_icon.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_dialog_background.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_ic_check_mark.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_ic_check_mark.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/material_ic_menu_arrow_down_black_24dp.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/material_ic_menu_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_popupmenu_background.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/test_level_drawable.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/test_level_drawable.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_ic_checkbox_checked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_ic_checkbox_checked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/point.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/point.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/james.jpg",
+        "source": "tn.esprit.crosschat-main-51:/drawable/james.jpg"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_m3_chip_checked_circle.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_m3_chip_checked_circle.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/dialogbg.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/dialogbg.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_menu_cut_mtrl_alpha.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_search_black_24.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_search_black_24.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_seekbar_track_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/rounded_linearlayout_backround.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/rounded_linearlayout_backround.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_checkbox_button.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_checkbox_button.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_checkbox_button_unchecked_checked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_checkbox_button_unchecked_checked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_keyboard_black_24dp.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_keyboard_black_24dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_checkbox_button_icon.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_checkbox_button_icon.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/michel.jpeg",
+        "source": "tn.esprit.crosschat-main-51:/drawable/michel.jpeg"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_btn_check_material_anim.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/m3_password_eye.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/m3_password_eye.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_checkbox_button_checked_unchecked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_checkbox_button_checked_unchecked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/notification_icon_background.xml",
+        "source": "tn.esprit.crosschat-core-1.9.0-8:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_emoji_icon.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/ic_emoji_icon.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_btn_radio_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_tab_indicator_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ratingbar_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/material_ic_calendar_black_24dp.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/material_ic_calendar_black_24dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_search.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_mtrl_checked_circle.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_mtrl_checked_circle.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/m3_tabs_line_indicator.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/m3_tabs_line_indicator.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_ab_back_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_vector_test.xml",
+        "source": "tn.esprit.crosschat-appcompat-resources-1.6.1-39:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_launcher_foreground.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ratingbar_small_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/tooltip_frame_dark.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_ic_checkbox_unchecked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_ic_checkbox_unchecked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/localisation.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/localisation.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_cab_background_top_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_cab_background_internal_bg.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/dialogbg2.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/dialogbg2.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_thumb.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_thumb.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_btn_borderless_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_ic_arrow_drop_up.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_ic_arrow_drop_up.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_search_api_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/baseline_videocam_24.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/baseline_videocam_24.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_text_cursor_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/sam.jpg",
+        "source": "tn.esprit.crosschat-main-51:/drawable/sam.jpg"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/wansi.jpg",
+        "source": "tn.esprit.crosschat-main-51:/drawable/wansi.jpg"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/baseline_menu_24.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/cutom_backroung.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/cutom_backroung.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/design_fab_background.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/design_ic_visibility_off.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_dropdown_arrow.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_dropdown_arrow.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_clear_black_24.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_clear_black_24.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/notification_tile_bg.xml",
+        "source": "tn.esprit.crosschat-core-1.9.0-8:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_btn_check_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/olivia.jpg",
+        "source": "tn.esprit.crosschat-main-51:/drawable/olivia.jpg"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_list_selector_holo_dark.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mic.png",
+        "source": "tn.esprit.crosschat-main-51:/drawable/mic.png"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/notification_bg_low.xml",
+        "source": "tn.esprit.crosschat-core-1.9.0-8:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_list_selector_holo_light.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/custom_textfield.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/custom_textfield.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_switch_thumb_checked.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_switch_thumb_checked.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/mtrl_ic_arrow_drop_down.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/mtrl_ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ic_m3_chip_check.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/ic_m3_chip_check.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/m3_avd_show_password.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/m3_avd_show_password.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/abc_seekbar_thumb_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/ssss.png",
+        "source": "tn.esprit.crosschat-main-51:/drawable/ssss.png"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/tooltip_frame_light.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/backround_discus.xml",
+        "source": "tn.esprit.crosschat-main-51:/drawable/backround_discus.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/material_ic_clear_black_24dp.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/material_ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/drawable/m3_tabs_rounded_line_indicator.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/drawable/m3_tabs_rounded_line_indicator.xml"
+    }
+]

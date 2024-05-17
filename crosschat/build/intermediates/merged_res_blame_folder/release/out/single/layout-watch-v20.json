@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

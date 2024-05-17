@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]

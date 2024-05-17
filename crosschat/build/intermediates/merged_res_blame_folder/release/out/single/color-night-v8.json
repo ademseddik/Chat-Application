@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/color-night-v8/material_timepicker_clockface.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/color-night-v8/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/color-night-v8/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/color-night-v8/material_timepicker_button_stroke.xml"
+    }
+]

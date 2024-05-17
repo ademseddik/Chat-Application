@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-v21/notification_action_tombstone.xml",
+        "source": "tn.esprit.crosschat-core-1.9.0-8:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-v21/notification_template_icon_group.xml",
+        "source": "tn.esprit.crosschat-core-1.9.0-8:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-v21/notification_action.xml",
+        "source": "tn.esprit.crosschat-core-1.9.0-8:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-v21/notification_template_custom_big.xml",
+        "source": "tn.esprit.crosschat-core-1.9.0-8:/layout-v21/notification_template_custom_big.xml"
+    }
+]

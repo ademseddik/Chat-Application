@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item2"
+    android:orientation="horizontal"
+    android:gravity="right"
+    android:layout_marginTop="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:orientation="vertical">
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/con2"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#A8ECFF"
+            app:layout_constraintStart_toEndOf="@id/photo"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <TextView
+                android:id="@+id/textMessage2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:text="« Texterisi le sens large de construire comme dans « basilicam texere = construire une basilique » chez Cicéron"/>
+
+        </com.google.android.material.card.MaterialCardView>
+        <LinearLayout
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/baseline_check_circle_outline_24"
+                app:layout_constraintTop_toBottomOf="@id/con2"
+                app:layout_constraintStart_toEndOf="@id/photo"
+                android:layout_marginStart="10dp"
+                />
+            <TextView
+                android:id="@+id/heure2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:textSize="12sp"
+                app:layout_constraintTop_toBottomOf="@id/con2"
+                app:layout_constraintStart_toEndOf="@id/photo"
+                android:text="11:56 PM"/>
+            <TextView
+                android:id="@+id/espace3"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/photo2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/michel"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:shapeAppearanceOverlay="@style/circular"
+        app:strokeWidth="3dp"
+        tools:ignore="MissingConstraints" />
+
+</LinearLayout>
+

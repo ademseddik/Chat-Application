@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-land/material_timepicker.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-land/material_clock_period_toggle_land.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/layout-land/material_clock_period_toggle_land.xml"
+    }
+]

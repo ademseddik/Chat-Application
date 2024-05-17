@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/anim-v21/m3_bottom_sheet_slide_in.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/anim-v21/m3_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/anim-v21/m3_side_sheet_exit_to_left.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/anim-v21/m3_side_sheet_exit_to_left.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "tn.esprit.crosschat-fragment-1.6.2-9:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/anim-v21/m3_side_sheet_enter_from_left.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/anim-v21/m3_side_sheet_enter_from_left.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/anim-v21/m3_side_sheet_enter_from_right.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/anim-v21/m3_side_sheet_enter_from_right.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/anim-v21/m3_side_sheet_exit_to_right.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/anim-v21/m3_side_sheet_exit_to_right.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/anim-v21/m3_bottom_sheet_slide_out.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/anim-v21/m3_bottom_sheet_slide_out.xml"
+    }
+]

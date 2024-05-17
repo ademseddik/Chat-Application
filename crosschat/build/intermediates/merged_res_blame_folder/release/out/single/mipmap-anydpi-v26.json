@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "tn.esprit.crosschat-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "tn.esprit.crosschat-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

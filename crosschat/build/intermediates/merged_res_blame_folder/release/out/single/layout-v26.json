@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-v26/abc_screen_toolbar.xml",
+        "source": "tn.esprit.crosschat-appcompat-1.6.1-42:/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "tn.esprit.crosschat-merged_res-50:/layout-v26/mtrl_calendar_month.xml",
+        "source": "tn.esprit.crosschat-material-1.11.0-17:/layout-v26/mtrl_calendar_month.xml"
+    }
+]

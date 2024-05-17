@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightblue"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/mainLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+        <LinearLayout
+            android:id="@+id/headerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/lightblue"
+            android:orientation="horizontal">
+
+
+
+
+
+            <LinearLayout
+                android:id="@+id/topmenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/lightblue"
+                android:orientation="horizontal"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <!-- First Photo on the Left -->
+                <ImageView                   android:id="@+id/photoLeft"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/baseline_menu_24"
+                    app:strokeWidth="3dp"
+                    app:shapeAppearanceOverlay="@style/circular"
+                    android:scaleType="centerCrop"
+                    android:layout_marginStart="20dp"/>
+
+                <!-- Spacer View for Separation -->
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"/>
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="200dp"
+                    android:layout_height="60dp"
+                    android:id="@+id/editTextUsername"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:hint="   Search "
+                    android:background="@drawable/customsearcherria"
+                    android:textColor="@android:color/black"
+                    android:drawableRight="@drawable/ic_search"/>
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"/>
+                <!-- Second Photo on the Right -->
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/photoRight"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/wansi"
+                    app:strokeWidth="3dp"
+                    app:shapeAppearanceOverlay="@style/circular"
+                    android:scaleType="centerCrop"
+                    android:layout_marginEnd="20dp"/>
+            </LinearLayout>
+            <!-- RecyclerView of User Icons -->
+
+
+        </LinearLayout>
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/userIconRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:background="@color/lightblue"
+            android:orientation="horizontal"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            tools:itemCount="5"
+            tools:listitem="@layout/user_icon_item" />
+        <!-- Header Layout -->
+        <LinearLayout
+            android:id="@+id/headerLayou"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/lightblue"
+            android:orientation="horizontal">
+
+
+
+
+
+            <LinearLayout
+                android:id="@+id/topMenuLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal"
+                app:layout_constraintTop_toTopOf="parent">
+
+
+
+                <!-- Contacts Button -->
+
+
+                <!-- Chat Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btncontacte"
+                    style="@style/Animation.Design.BottomSheetDialog"
+                    android:layout_width="112dp"
+                    android:layout_height="wrap_content"
+                    android:text="Contacts"
+                    android:layout_margin="10dp"
+                    android:backgroundTint="@color/white"
+                    app:cornerRadius="9dp"
+                    android:textSize="15dp"
+                    android:textColor="@color/darkblue"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+                <!-- Contacts Button -->
+
+
+                <!-- Chat Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnchat"
+                    style="@style/Animation.Design.BottomSheetDialog"
+                    android:layout_width="112dp"
+                    android:layout_height="wrap_content"
+                    android:text="Chat"
+                    android:layout_margin="10dp"
+                    android:textSize="15dp"
+                    android:backgroundTint="#00FFFFFF"
+                    app:cornerRadius="9dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <!-- Calls Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btncall"
+                    style="@style/Animation.Design.BottomSheetDialog"
+                    android:layout_width="112dp"
+                    android:layout_height="wrap_content"
+                    android:text="Call"
+                    android:layout_margin="10dp"
+                    android:backgroundTint="#00FFFFFF"
+                    android:textSize="15dp"
+                    app:cornerRadius="9dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <!-- Calls Button -->
+
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <!-- RecyclerView Container -->
+        <LinearLayout
+            android:id="@+id/recyclerViewContainer"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/dialogbg"
+            app:layout_constraintTop_toBottomOf="@id/headerLayout"
+            app:layout_constraintBottom_toTopOf="@+id/buttonLayout">
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:itemCount="5"
+                tools:listitem="@layout/chatitem" />
+        </LinearLayout>
+
+        <!-- Button Layout -->
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
